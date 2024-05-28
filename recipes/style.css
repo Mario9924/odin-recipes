@@ -1,0 +1,17 @@
+#title {
+    background-color: yellow;
+    text-align: center;
+}
+
+h3 {
+    background-color: lightgoldenrodyellow;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    li {
+        text-align: center;
+    }
+}
+

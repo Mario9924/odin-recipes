@@ -11,4 +11,10 @@ ul {
 li {
     background-color: #EEEEEE;
     border: 1px solid #DDDDDD;
+    padding: 10px;
+    display: inline-block;
   }
+
+li:hover {
+  background-color: darkgrey;
+}
